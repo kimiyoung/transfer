@@ -9,6 +9,13 @@ Zhilin Yang, Ruslan Salakhutdino, William W. Cohen
 ICLR 2017
 ```
 
+You might also want to refer to
+```
+Multi-Task Cross-Lingual Sequence Tagging from Scratch
+Zhilin Yang, Ruslan Salakhutdinov, William W. Cohen
+Preprint, 2016
+```
+
 ## Requirements
 
 Lasagne, Theano. Python 2.7.
