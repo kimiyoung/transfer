@@ -5,7 +5,7 @@
 This is an implementation of the paper
 ```
 Transfer Learning for Sequence Tagging with Hierarchical Recurrent Networks
-Zhilin Yang, Ruslan Salakhutdino, William W. Cohen
+Zhilin Yang, Ruslan Salakhutdinov, William W. Cohen
 ICLR 2017
 ```
 
